@@ -102,28 +102,6 @@ def button_maker():
     button_ex = Button()
     button_ex.config(text="Calculate",width=50,command=click_func)
     relx_rely(button_ex,0.5,0.7)
-
 button_maker()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 window.mainloop()
